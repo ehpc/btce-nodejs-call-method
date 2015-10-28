@@ -1,6 +1,6 @@
 {
   "name": "btce-nodejs-call-method",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calling BTC-e trading API method from Node.js",
   "main": "index.js",
   "scripts": {
