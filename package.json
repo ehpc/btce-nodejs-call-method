@@ -26,8 +26,10 @@
   },
   "homepage": "https://github.com/ehpc/btce-nodejs-call-method#readme",
   "devDependencies": {
+    "chai": "^3.4.0",
     "gulp": "^3.9.0",
     "gulp-jscs": "^3.0.2",
-    "gulp-jshint": "^1.11.2"
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3"
   }
 }

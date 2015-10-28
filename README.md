@@ -1,11 +1,11 @@
-# A module for calling BTC-e trading API method
+# A module for calling the BTC-e trading API method
 
 It's a simple module with only one purpose:
 
-* Calling BTC-e trading API method
+* Calling the BTC-e trading API method
 
 Actually it was written to call *getInfo* and nothing more. But I figured it
-can be modified in the future so here it is on github.
+can be improved in the future so here it is on github.
 
 # Installing
 
@@ -24,4 +24,10 @@ btce.callBtceMethod(
 ).then(function (data) {
 	console.log('BTC count: ', data.return.funds.btc);
 }).catch(console.error);
+```
+
+# Testing
+
+```
+npm test
 ```

@@ -1,5 +1,5 @@
 /**
- * A module for calling BTC-e trading API methods
+ * A module for calling the BTC-e trading API methods
  * @module index.js
  * @author Eugene Maslovich <ehpc@ehpc.io>
  */
