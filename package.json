@@ -1,0 +1,33 @@
+{
+  "name": "btce-nodejs-call-method",
+  "version": "1.0.0",
+  "description": "Calling BTC-e trading API method from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ehpc/btce-nodejs-call-method.git"
+  },
+  "keywords": [
+    "BTC-e",
+    "bitcoin",
+    "trading",
+    "node",
+    "getInfo",
+    "hmac",
+    "sha512"
+  ],
+  "author": "Eugene Maslovich <ehpc@ehpc.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehpc/btce-nodejs-call-method/issues"
+  },
+  "homepage": "https://github.com/ehpc/btce-nodejs-call-method#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^1.11.2"
+  }
+}
