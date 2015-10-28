@@ -16,7 +16,7 @@ npm install btce-nodejs-call-method --save
 # Using
 
 ```
-let btce = require('');
+let btce = require('btce-nodejs-call-method');
 btce.callBtceMethod(
 	'getInfo',
 	'YOUR API KEY',
